@@ -13,6 +13,7 @@ flask-cors = "*"
 flask-login = "*"
 requests = "*"
 flask-socketio = "*"
+flaskext = "*"
 
 [requires]
 python_version = "3.7"
